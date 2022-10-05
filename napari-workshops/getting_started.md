@@ -9,7 +9,7 @@ Make sure this page contains basic information about your workshop, such as the
 main contents, instructors' names and contact information if available, and
 information about the date and location for this session.
 
-Below you can see an example of how this can be done.
+Below you can see an example of how this can be done..
 ```
 
 This workshop will take you through the basics of bioimage analysis in
